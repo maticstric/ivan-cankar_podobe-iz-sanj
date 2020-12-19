@@ -1,3 +1,5 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
 h1, h2, h3, h4, h5, h6 {
   font-variant: small-caps;
   text-align: center;
@@ -11,4 +13,13 @@ p {
 
 p:first-child {
   text-indent: 0;
+}
+
+header {
+  text-align: center;
+}
+
+header [epub|type~="epigraph"] {
+	display: inline-block;
+	text-align: left;
 }
