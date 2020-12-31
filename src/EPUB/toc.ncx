@@ -129,9 +129,9 @@
     </navPoint>
     <navPoint id="navpoint-21" playOrder="21">
       <navLabel>
-        <text>V poletnem soncu</text>
+        <text>V poletnem solncu</text>
       </navLabel>
-      <content src="text/v-poletnem-soncu.xhtml"/>
+      <content src="text/v-poletnem-solncu.xhtml"/>
     </navPoint>
     <navPoint id="navpoint-22" playOrder="22">
       <navLabel>

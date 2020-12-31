@@ -33,7 +33,7 @@
     <item href="text/ugasle-luci.xhtml" id="ugasle-luci.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/zaklenjena-kamrica.xhtml" id="zaklenjena-kamrica.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/kralj-matjaz.xhtml" id="kralj-matjaz.xhtml" media-type="application/xhtml+xml"/>
-    <item href="text/v-poletnem-soncu.xhtml" id="v-poletnem-soncu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="text/v-poletnem-solncu.xhtml" id="v-poletnem-solncu.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/bebec-martin.xhtml" id="bebec-martin.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/cetrta-postaja.xhtml" id="cetrta-postaja.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/tretja-ura.xhtml" id="tretja-ura.xhtml" media-type="application/xhtml+xml"/>
@@ -67,7 +67,7 @@
     <itemref idref="ugasle-luci.xhtml"/>
     <itemref idref="zaklenjena-kamrica.xhtml"/>
     <itemref idref="kralj-matjaz.xhtml"/>
-    <itemref idref="v-poletnem-soncu.xhtml"/>
+    <itemref idref="v-poletnem-solncu.xhtml"/>
     <itemref idref="bebec-martin.xhtml"/>
     <itemref idref="cetrta-postaja.xhtml"/>
     <itemref idref="tretja-ura.xhtml"/>
