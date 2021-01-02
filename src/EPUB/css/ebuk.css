@@ -11,7 +11,7 @@ p {
   text-indent: 1em;
 }
 
-p:first-child {
+p:first-of-type {
   text-indent: 0;
 }
 
