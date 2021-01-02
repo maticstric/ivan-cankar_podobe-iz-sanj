@@ -5,7 +5,7 @@
     <dc:title>Podobe iz sanj</dc:title>
     <dc:language>sl</dc:language>
     <dc:creator>Ivan Cankar</dc:creator>
-    <meta property="dcterms:modified">2020-12-13T16:59:20Z</meta>
+    <meta property="dcterms:modified">2021-01-01T19:13:41.864Z</meta>
     <meta name="cover" content="cover.jpg"/>
   </metadata>
   <manifest>
@@ -39,7 +39,7 @@
     <item href="text/tretja-ura.xhtml" id="tretja-ura.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/vrzdenec.xhtml" id="vrzdenec.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/pobratimi.xhtml" id="pobratimi.xhtml" media-type="application/xhtml+xml"/>
-    <item href="text/sraka-in-lastovice.xhtml" id="sraka-in-lastovice.xhtml" media-type="application/xhtml+xml"/>
+    <item href="text/sraka-in-lastavice.xhtml" id="sraka-in-lastavice.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/kadet-milavec.xhtml" id="kadet-milavec.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/med-zvezdami.xhtml" id="med-zvezdami.xhtml" media-type="application/xhtml+xml"/>
     <item href="text/nedelja.xhtml" id="nedelja.xhtml" media-type="application/xhtml+xml"/>
@@ -73,7 +73,7 @@
     <itemref idref="tretja-ura.xhtml"/>
     <itemref idref="vrzdenec.xhtml"/>
     <itemref idref="pobratimi.xhtml"/>
-    <itemref idref="sraka-in-lastovice.xhtml"/>
+    <itemref idref="sraka-in-lastavice.xhtml"/>
     <itemref idref="kadet-milavec.xhtml"/>
     <itemref idref="med-zvezdami.xhtml"/>
     <itemref idref="nedelja.xhtml"/>

@@ -165,9 +165,9 @@
     </navPoint>
     <navPoint id="navpoint-27" playOrder="27">
       <navLabel>
-        <text>Sraka in lastovice</text>
+        <text>Sraka in lastavice</text>
       </navLabel>
-      <content src="text/sraka-in-lastovice.xhtml"/>
+      <content src="text/sraka-in-lastavice.xhtml"/>
     </navPoint>
     <navPoint id="navpoint-28" playOrder="28">
       <navLabel>
