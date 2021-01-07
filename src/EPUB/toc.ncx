@@ -159,7 +159,7 @@
 		</navPoint>
 		<navPoint id="navpoint-26" playOrder="26">
 			<navLabel>
-				<text>Vrzdenec</text>
+				<text>Vrzdénec</text>
 			</navLabel>
 			<content src="text/vrzdenec.xhtml"/>
 		</navPoint>
