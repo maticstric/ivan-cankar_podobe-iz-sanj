@@ -21,179 +21,185 @@
     </navPoint>
     <navPoint id="navpoint-3" playOrder="3">
       <navLabel>
+        <text>Uvod</text>
+      </navLabel>
+      <content src="text/uvod.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
         <text>Ogledalo</text>
       </navLabel>
       <content src="text/ogledalo.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-4" playOrder="4">
+    <navPoint id="navpoint-5" playOrder="5">
       <navLabel>
         <text>Gospod stotnik</text>
       </navLabel>
       <content src="text/gospod-stotnik.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-5" playOrder="5">
+    <navPoint id="navpoint-6" playOrder="6">
       <navLabel>
         <text>Otroci in starci</text>
       </navLabel>
       <content src="text/otroci-in-starci.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-6" playOrder="6">
+    <navPoint id="navpoint-7" playOrder="7">
       <navLabel>
         <text>Strah</text>
       </navLabel>
       <content src="text/strah.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-7" playOrder="7">
+    <navPoint id="navpoint-8" playOrder="8">
       <navLabel>
         <text>Maj</text>
       </navLabel>
       <content src="text/maj.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-8" playOrder="8">
+    <navPoint id="navpoint-9" playOrder="9">
       <navLabel>
         <text>Peter Klepec</text>
       </navLabel>
       <content src="text/peter-klepec.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-9" playOrder="9">
+    <navPoint id="navpoint-10" playOrder="10">
       <navLabel>
         <text>Obnemelost</text>
       </navLabel>
       <content src="text/obnemelost.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-10" playOrder="10">
+    <navPoint id="navpoint-11" playOrder="11">
       <navLabel>
         <text>Leda</text>
       </navLabel>
       <content src="text/leda.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-11" playOrder="11">
+    <navPoint id="navpoint-12" playOrder="12">
       <navLabel>
         <text>Edina beseda</text>
       </navLabel>
       <content src="text/edina-beseda.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-12" playOrder="12">
+    <navPoint id="navpoint-13" playOrder="13">
       <navLabel>
         <text>Sence</text>
       </navLabel>
       <content src="text/sence.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-13" playOrder="13">
+    <navPoint id="navpoint-14" playOrder="14">
       <navLabel>
         <text>Veselejša pesem</text>
       </navLabel>
       <content src="text/veselejsa-pesem.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-14" playOrder="14">
+    <navPoint id="navpoint-15" playOrder="15">
       <navLabel>
         <text>Kostanj posebne sorte</text>
       </navLabel>
       <content src="text/kostanj-posebne-sorte.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-15" playOrder="15">
+    <navPoint id="navpoint-16" playOrder="16">
       <navLabel>
         <text>Ranjenci</text>
       </navLabel>
       <content src="text/ranjenci.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-16" playOrder="16">
+    <navPoint id="navpoint-17" playOrder="17">
       <navLabel>
         <text>»To so pa rože!«</text>
       </navLabel>
       <content src="text/to-so-pa-roze.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-17" playOrder="17">
+    <navPoint id="navpoint-18" playOrder="18">
       <navLabel>
         <text>Tisto vprašanje</text>
       </navLabel>
       <content src="text/tisto-vprasanje.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-18" playOrder="18">
+    <navPoint id="navpoint-19" playOrder="19">
       <navLabel>
         <text>Ugasle luči</text>
       </navLabel>
       <content src="text/ugasle-luci.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-19" playOrder="19">
+    <navPoint id="navpoint-20" playOrder="20">
       <navLabel>
         <text>Zaklenjena kamrica</text>
       </navLabel>
       <content src="text/zaklenjena-kamrica.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-20" playOrder="20">
+    <navPoint id="navpoint-21" playOrder="21">
       <navLabel>
         <text>Kralj Matjaž</text>
       </navLabel>
       <content src="text/kralj-matjaz.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-21" playOrder="21">
+    <navPoint id="navpoint-22" playOrder="22">
       <navLabel>
         <text>V poletnem solncu</text>
       </navLabel>
       <content src="text/v-poletnem-solncu.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-22" playOrder="22">
+    <navPoint id="navpoint-23" playOrder="23">
       <navLabel>
         <text>Bebec Martin</text>
       </navLabel>
       <content src="text/bebec-martin.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-23" playOrder="23">
+    <navPoint id="navpoint-24" playOrder="24">
       <navLabel>
         <text>Četrta postaja</text>
       </navLabel>
       <content src="text/cetrta-postaja.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-24" playOrder="24">
+    <navPoint id="navpoint-25" playOrder="25">
       <navLabel>
         <text>Tretja ura</text>
       </navLabel>
       <content src="text/tretja-ura.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-25" playOrder="25">
+    <navPoint id="navpoint-26" playOrder="26">
       <navLabel>
         <text>Vrzdenec</text>
       </navLabel>
       <content src="text/vrzdenec.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-26" playOrder="26">
+    <navPoint id="navpoint-27" playOrder="27">
       <navLabel>
         <text>Pobratimi</text>
       </navLabel>
       <content src="text/pobratimi.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-27" playOrder="27">
+    <navPoint id="navpoint-28" playOrder="28">
       <navLabel>
         <text>Sraka in lastavice</text>
       </navLabel>
       <content src="text/sraka-in-lastavice.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-28" playOrder="28">
+    <navPoint id="navpoint-29" playOrder="29">
       <navLabel>
         <text>Kadet Milavec</text>
       </navLabel>
       <content src="text/kadet-milavec.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-29" playOrder="29">
+    <navPoint id="navpoint-30" playOrder="30">
       <navLabel>
         <text>Med zvezdami</text>
       </navLabel>
       <content src="text/med-zvezdami.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-30" playOrder="30">
+    <navPoint id="navpoint-31" playOrder="31">
       <navLabel>
         <text>Nedelja</text>
       </navLabel>
       <content src="text/nedelja.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-31" playOrder="31">
+    <navPoint id="navpoint-32" playOrder="32">
       <navLabel>
         <text>Vélika maša</text>
       </navLabel>
       <content src="text/velika-masa.xhtml"/>
     </navPoint>
-    <navPoint id="navpoint-32" playOrder="32">
+    <navPoint id="navpoint-33" playOrder="33">
       <navLabel>
         <text>Konec</text>
       </navLabel>

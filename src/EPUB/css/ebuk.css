@@ -1,25 +1,36 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 h1, h2, h3, h4, h5, h6 {
-  font-variant: small-caps;
-  text-align: center;
-  margin: 3em 0;
+	font-variant: small-caps;
+	text-align: center;
+	margin: 3em 0;
 }
 
 p {
-  margin: 0;
-  text-indent: 1em;
+	margin: 0;
+	text-indent: 1em;
 }
 
 p:first-of-type {
-  text-indent: 0;
+	text-indent: 0;
 }
 
 header {
-  text-align: center;
+	text-align: center;
 }
 
-header [epub|type~="epigraph"] {
+#cetrta-postaja blockquote[epub|type~="epigraph"] {
 	display: inline-block;
 	text-align: left;
+}
+
+#predgovor[epub|type~="preface"] {
+	margin: auto;
+	margin-top: 3em;
+	max-width: 80%;
+}
+
+#predgovor footer {
+	margin-top: 1em;
+	text-align: right;
 }
