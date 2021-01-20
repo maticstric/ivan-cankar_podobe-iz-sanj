@@ -2,9 +2,11 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">8rpb2y1mme16cesbb9lgmzw3qa4l6yv6</dc:identifier>
+		<dc:creator>Ivan Cankar</dc:creator>
 		<dc:title>Podobe iz sanj</dc:title>
 		<dc:language>sl</dc:language>
-		<dc:creator>Ivan Cankar</dc:creator>
+		<dc:source>www.dlib.si/details/URN:NBN:SI:DOC-6BK0DF0V</dc:source>
+		<dc:source>www.dlib.si/details/URN:NBN:SI:DOC-T5QCB3T9</dc:source>
 		<meta property="dcterms:modified">2021-01-07T23:15:39Z</meta>
 		<meta name="cover" content="cover.jpg"/>
 	</metadata>
